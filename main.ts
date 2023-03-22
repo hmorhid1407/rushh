@@ -1,3 +1,6 @@
+/**
+ * ykyrkduysururusrutt
+ */
 basic.forever(function () {
     basic.clearScreen()
     for (let index = 0; index <= 4; index++) {
